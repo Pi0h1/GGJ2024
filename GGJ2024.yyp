@@ -176,6 +176,7 @@
     {"id":{"name":"sprMonster","path":"sprites/sprMonster/sprMonster.yy",},},
     {"id":{"name":"sprInputKbmDarkEmptyLarge","path":"sprites/sprInputKbmDarkEmptyLarge/sprInputKbmDarkEmptyLarge.yy",},},
     {"id":{"name":"sprInputKbmRedBack","path":"sprites/sprInputKbmRedBack/sprInputKbmRedBack.yy",},},
+    {"id":{"name":"background","path":"sprites/background/background.yy",},},
     {"id":{"name":"sprInputKbmClearB","path":"sprites/sprInputKbmClearB/sprInputKbmClearB.yy",},},
     {"id":{"name":"objGame","path":"objects/objGame/objGame.yy",},},
     {"id":{"name":"sprInputKbmClearE","path":"sprites/sprInputKbmClearE/sprInputKbmClearE.yy",},},
