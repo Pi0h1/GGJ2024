@@ -4,6 +4,8 @@
   "name": "GGJ2024",
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"Music","targets":-1,},
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"Sounds","targets":-1,},
   ],
   "configs": {
     "children": [],
@@ -61,6 +63,7 @@
     {"id":{"name":"sprL1_PS","path":"sprites/sprL1_PS/sprL1_PS.yy",},},
     {"id":{"name":"sprInputKbmClear0","path":"sprites/sprInputKbmClear0/sprInputKbmClear0.yy",},},
     {"id":{"name":"sprInputKbmClear7","path":"sprites/sprInputKbmClear7/sprInputKbmClear7.yy",},},
+    {"id":{"name":"bgmMusic1","path":"sounds/bgmMusic1/bgmMusic1.yy",},},
     {"id":{"name":"sprInputKbmRedDown","path":"sprites/sprInputKbmRedDown/sprInputKbmRedDown.yy",},},
     {"id":{"name":"sprInputKbmRedCtrl","path":"sprites/sprInputKbmRedCtrl/sprInputKbmRedCtrl.yy",},},
     {"id":{"name":"sprBall","path":"sprites/sprBall/sprBall.yy",},},
