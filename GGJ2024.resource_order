@@ -142,6 +142,7 @@
     {"name":"sprInputKbmClearR","order":13,"path":"sprites/sprInputKbmClearR/sprInputKbmClearR.yy",},
     {"name":"objObstacleGenerator","order":2,"path":"objects/objObstacleGenerator/objObstacleGenerator.yy",},
     {"name":"sprInputKbmRedI","order":17,"path":"sprites/sprInputKbmRedI/sprInputKbmRedI.yy",},
+    {"name":"sprNothing","order":2,"path":"sprites/sprNothing/sprNothing.yy",},
     {"name":"sprInputKbmClearCtrl","order":43,"path":"sprites/sprInputKbmClearCtrl/sprInputKbmClearCtrl.yy",},
     {"name":"sprInputKbmClearSpace","order":45,"path":"sprites/sprInputKbmClearSpace/sprInputKbmClearSpace.yy",},
     {"name":"sprInputKbmDark5","order":4,"path":"sprites/sprInputKbmDark5/sprInputKbmDark5.yy",},

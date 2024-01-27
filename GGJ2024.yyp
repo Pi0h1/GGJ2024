@@ -176,6 +176,7 @@
     {"id":{"name":"sprInputKbmClearR","path":"sprites/sprInputKbmClearR/sprInputKbmClearR.yy",},},
     {"id":{"name":"objObstacleGenerator","path":"objects/objObstacleGenerator/objObstacleGenerator.yy",},},
     {"id":{"name":"sprInputKbmRedI","path":"sprites/sprInputKbmRedI/sprInputKbmRedI.yy",},},
+    {"id":{"name":"sprNothing","path":"sprites/sprNothing/sprNothing.yy",},},
     {"id":{"name":"sprInputKbmClearCtrl","path":"sprites/sprInputKbmClearCtrl/sprInputKbmClearCtrl.yy",},},
     {"id":{"name":"sprInputKbmClearSpace","path":"sprites/sprInputKbmClearSpace/sprInputKbmClearSpace.yy",},},
     {"id":{"name":"sprInputKbmDark5","path":"sprites/sprInputKbmDark5/sprInputKbmDark5.yy",},},
