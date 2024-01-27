@@ -21,6 +21,11 @@ if (isOnGrass) {
 	obstacle[i++] = objHole;
 }
 
+obstacle[i++] = objCake;
+obstacle[i++] = objMonster;
+obstacle[i++] = objCheese;
+
+
 
 
 // End of list of obstacles.
