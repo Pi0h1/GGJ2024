@@ -4,7 +4,7 @@ timer = defaultTimer;
 i=0;
 
 // List of obstacles (Add more here!)
-obstacle[i++] = objSpike;
+//obstacle[i++] = objSpike;
 
 isOnGrass = (x == 544 && y == 112);
 isOnSidewalk = (x == 512 && y == 144);
@@ -12,7 +12,15 @@ isOnRoad = (x == 480 && y == 176);
 
 if (isOnGrass) {
 	obstacle[i++] = objTree;
+	obstacle[i++] = objBall;
+} else if (isOnSidewalk) {
+	obstacle[i++] = objBanana;
+	obstacle[i++] = objTrash;
+} else if (isOnRoad) {
+	obstacle[i++] = objCar;
+	obstacle[i++] = objHole;
 }
+
 
 
 // End of list of obstacles.
