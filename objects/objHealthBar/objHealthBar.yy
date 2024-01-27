@@ -1,10 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objHole",
+  "name": "objHealthBar",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -12,10 +11,7 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": {
-    "name": "objObstacle",
-    "path": "objects/objObstacle/objObstacle.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprHole",
-    "path": "sprites/sprHole/sprHole.yy",
+    "name": "sprHealthbar",
+    "path": "sprites/sprHealthbar/sprHealthbar.yy",
   },
   "spriteMaskId": null,
   "visible": true,
