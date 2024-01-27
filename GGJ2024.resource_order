@@ -143,7 +143,7 @@
     {"name":"sprMonster","order":11,"path":"sprites/sprMonster/sprMonster.yy",},
     {"name":"sprInputKbmDarkEmptyLarge","order":50,"path":"sprites/sprInputKbmDarkEmptyLarge/sprInputKbmDarkEmptyLarge.yy",},
     {"name":"sprInputKbmRedBack","order":46,"path":"sprites/sprInputKbmRedBack/sprInputKbmRedBack.yy",},
-    {"name":"background","order":13,"path":"sprites/background/background.yy",},
+    {"name":"sprBackground","order":13,"path":"sprites/sprBackground/sprBackground.yy",},
     {"name":"sprInputKbmClearB","order":33,"path":"sprites/sprInputKbmClearB/sprInputKbmClearB.yy",},
     {"name":"sprInputKbmClearE","order":12,"path":"sprites/sprInputKbmClearE/sprInputKbmClearE.yy",},
     {"name":"sprInputKbmClearEmptyLarge","order":50,"path":"sprites/sprInputKbmClearEmptyLarge/sprInputKbmClearEmptyLarge.yy",},
