@@ -1,1 +1,1 @@
-globalvar delta; delta = min(1, (delta_time / (1000000)));
+globalvar delta; delta = min(1, (delta_time / (1000000/60)));
