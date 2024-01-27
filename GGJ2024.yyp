@@ -85,6 +85,7 @@
     {"id":{"name":"sprInputKbmClear6","path":"sprites/sprInputKbmClear6/sprInputKbmClear6.yy",},},
     {"id":{"name":"sprInputKbmDark7","path":"sprites/sprInputKbmDark7/sprInputKbmDark7.yy",},},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},},
+    {"id":{"name":"scrDrawShadowCircle","path":"scripts/scrDrawShadowCircle/scrDrawShadowCircle.yy",},},
     {"id":{"name":"sprInputKbmDarkAlt","path":"sprites/sprInputKbmDarkAlt/sprInputKbmDarkAlt.yy",},},
     {"id":{"name":"sprGPFace3_PS","path":"sprites/sprGPFace3_PS/sprGPFace3_PS.yy",},},
     {"id":{"name":"sprInputKbmClear8","path":"sprites/sprInputKbmClear8/sprInputKbmClear8.yy",},},
