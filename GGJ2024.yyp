@@ -93,6 +93,7 @@
     {"id":{"name":"sprGPFace4_XB360","path":"sprites/sprGPFace4_XB360/sprGPFace4_XB360.yy",},},
     {"id":{"name":"sprGPFace4_XB","path":"sprites/sprGPFace4_XB/sprGPFace4_XB.yy",},},
     {"id":{"name":"sprInputKbmClearLeft","path":"sprites/sprInputKbmClearLeft/sprInputKbmClearLeft.yy",},},
+    {"id":{"name":"sprPlayer","path":"sprites/sprPlayer/sprPlayer.yy",},},
     {"id":{"name":"sprInputKbmClearDown","path":"sprites/sprInputKbmClearDown/sprInputKbmClearDown.yy",},},
     {"id":{"name":"sprInputKbmDarkShift","path":"sprites/sprInputKbmDarkShift/sprInputKbmDarkShift.yy",},},
     {"id":{"name":"sprInputKbmClearBack2","path":"sprites/sprInputKbmClearBack2/sprInputKbmClearBack2.yy",},},
