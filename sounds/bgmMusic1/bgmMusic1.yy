@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "bgmMusic1",
   "audioGroupId": {
-    "name": "Music",
-    "path": "audiogroups/Music",
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
   },
   "bitDepth": 1,
   "bitRate": 24,

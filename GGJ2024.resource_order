@@ -230,6 +230,7 @@
     {"name":"sprInputKbmDark0","order":9,"path":"sprites/sprInputKbmDark0/sprInputKbmDark0.yy",},
     {"name":"sprInputKbmClearS","order":21,"path":"sprites/sprInputKbmClearS/sprInputKbmClearS.yy",},
     {"name":"sprGPFace3_PSb","order":2,"path":"sprites/sprGPFace3_PSb/sprGPFace3_PSb.yy",},
+    {"name":"sndFinish","order":1,"path":"sounds/sndFinish/sndFinish.yy",},
     {"name":"sprGPFace4_PSw","order":3,"path":"sprites/sprGPFace4_PSw/sprGPFace4_PSw.yy",},
     {"name":"sprSpike","order":3,"path":"sprites/sprSpike/sprSpike.yy",},
     {"name":"sprInputKbmDarkUp","order":36,"path":"sprites/sprInputKbmDarkUp/sprInputKbmDarkUp.yy",},
