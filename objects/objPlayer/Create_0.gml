@@ -41,4 +41,9 @@ calculateHit = function(obj) {
 			audienceEntertainement -= 15;
 			break;
 	}
+	
+	if (playerHealth > 100) playerHealth = 100;
+	if (playerHealth < 0) playerHealth = 0;
+	if (audienceEntertainement > 100) audienceEntertainement = 100;
+	if (audienceEntertainement < 0) audienceEntertainement = 0;
 }
