@@ -14,5 +14,5 @@ function spawnObstacle()
 if (timer <= 0)
 {
 	spawnObstacle();
-	timer = choose(defaultTimer,defaultTimer*2,defaultTimer*3);
+	timer = defaultTimer+floor(random(defaultTimer));
 }

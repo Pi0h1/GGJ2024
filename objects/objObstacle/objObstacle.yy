@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Obstacles",
+    "path": "folders/Objects/Obstacles.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -30,6 +30,9 @@
   "properties": [],
   "solid": false,
   "spriteId": null,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sprCollisionObstacle",
+    "path": "sprites/sprCollisionObstacle/sprCollisionObstacle.yy",
+  },
   "visible": true,
 }

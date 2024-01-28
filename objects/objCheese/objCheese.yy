@@ -8,12 +8,12 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Pick Ups",
+    "path": "folders/Objects/Pick Ups.yy",
   },
   "parentObjectId": {
-    "name": "objObstacle",
-    "path": "objects/objObstacle/objObstacle.yy",
+    "name": "objPickUp",
+    "path": "objects/objPickUp/objPickUp.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -34,6 +34,9 @@
     "name": "sprCheese",
     "path": "sprites/sprCheese/sprCheese.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sprCollisionObstacle",
+    "path": "sprites/sprCollisionObstacle/sprCollisionObstacle.yy",
+  },
   "visible": true,
 }
