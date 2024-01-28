@@ -1,4 +1,8 @@
-x-=3;
+
+if !(global.GameOver)
+{
+	x -= global.GameSpeed;
+}
 
 var shouldSpawn = (x <= 480 && spawned == 0)
 

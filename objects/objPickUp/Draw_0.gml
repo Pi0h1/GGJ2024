@@ -6,7 +6,7 @@ draw_circle_color(x,y-4+lengthdir_y(len,dir),8+random(2),c_white,c_black,0);
 gpu_set_blendmode(bm_normal);
 draw_set_alpha(1)
 
-draw_sprite_ext(sprCircle, image_index, x, y, 0.16, 0.05, 0, c_black, image_alpha-.75);
+draw_sprite_ext(sprCircle, image_index, x, y+4, 0.05+lengthdir_y(0.02,dir), 0.02, 0, c_black, image_alpha-.75);
 
 draw_sprite_ext(sprite_index, image_index, x+thickness, y+thickness+lengthdir_y(len,dir),image_xscale,image_yscale,image_angle,c_black,1);
 draw_sprite_ext(sprite_index, image_index, x-thickness, y-thickness+lengthdir_y(len,dir),image_xscale,image_yscale,image_angle,c_black,1);

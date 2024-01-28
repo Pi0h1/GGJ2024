@@ -1,6 +1,10 @@
+canWalk = false;
+jumpy = 0
+dir = 0;
 depth = -y;
 playerHealth = 50;
 audienceEntertainement = 50;
+player_yscale = .16
 
 calculateHit = function(obj) {
 	switch (obj) {
@@ -47,3 +51,5 @@ calculateHit = function(obj) {
 	if (audienceEntertainement > 100) audienceEntertainement = 100;
 	if (audienceEntertainement < 0) audienceEntertainement = 0;
 }
+
+hit = false;

@@ -11,9 +11,7 @@ isOnRoad = (y == 184);
 
 obstacle[i++] = objSpike;
 
-obstacle[i++] = objCake;
-obstacle[i++] = objMonster;
-obstacle[i++] = objCheese;
+
 
 if (isOnGrass) {
 	obstacle[i++] = objTree;
@@ -35,3 +33,13 @@ if (isOnGrass) {
 obstacleTotal = i;
 obstacleToSpawn = floor(random(obstacleTotal));
 i=0;
+
+
+pickups[i++] = objCake;
+pickups[i++] = objMonster;
+pickups[i++] = objCheese;
+
+pickUpTotal = i;
+pickUpToSpawn = floor(random(pickUpTotal));
+i=0;
+selection = 0;

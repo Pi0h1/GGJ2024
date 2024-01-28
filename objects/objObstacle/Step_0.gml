@@ -1,4 +1,7 @@
-x -= 3;
+if !(global.GameOver)
+{
+	x -= global.GameSpeed;
+}
 
 if (x < -16)
 {
