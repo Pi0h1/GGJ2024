@@ -180,6 +180,7 @@
     {"name":"objGround","order":6,"path":"objects/objGround/objGround.yy",},
     {"name":"sprGPFace4_PSb","order":3,"path":"sprites/sprGPFace4_PSb/sprGPFace4_PSb.yy",},
     {"name":"sprInputKbmClearR","order":13,"path":"sprites/sprInputKbmClearR/sprInputKbmClearR.yy",},
+    {"name":"sndProyector","order":8,"path":"sounds/sndProyector/sndProyector.yy",},
     {"name":"sprInputKbmRedI","order":17,"path":"sprites/sprInputKbmRedI/sprInputKbmRedI.yy",},
     {"name":"sprNothing","order":2,"path":"sprites/sprNothing/sprNothing.yy",},
     {"name":"sprCarWheel","order":22,"path":"sprites/sprCarWheel/sprCarWheel.yy",},

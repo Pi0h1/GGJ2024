@@ -221,6 +221,7 @@
     {"id":{"name":"sprInputKbmMouse","path":"sprites/sprInputKbmMouse/sprInputKbmMouse.yy",},},
     {"id":{"name":"sprInputKbmClearR","path":"sprites/sprInputKbmClearR/sprInputKbmClearR.yy",},},
     {"id":{"name":"objObstacleGenerator","path":"objects/objObstacleGenerator/objObstacleGenerator.yy",},},
+    {"id":{"name":"sndProyector","path":"sounds/sndProyector/sndProyector.yy",},},
     {"id":{"name":"sprInputKbmRedI","path":"sprites/sprInputKbmRedI/sprInputKbmRedI.yy",},},
     {"id":{"name":"sprNothing","path":"sprites/sprNothing/sprNothing.yy",},},
     {"id":{"name":"sprCarWheel","path":"sprites/sprCarWheel/sprCarWheel.yy",},},
