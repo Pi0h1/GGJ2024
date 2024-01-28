@@ -6,6 +6,8 @@ image_index = 0;
 sprite_index = sprPlayerDrop;
 player_yscale = .08;
 canWalk = true;
+playSound(sndRisas);
+
 hit = true;
 
 instance_create_depth(544,128,depth,objObstacleGenerator)

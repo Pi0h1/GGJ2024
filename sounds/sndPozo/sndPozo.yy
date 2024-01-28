@@ -16,7 +16,7 @@
     "path": "folders/Sounds.yy",
   },
   "preload": false,
-  "sampleRate": 48000,
+  "sampleRate": 32000,
   "soundFile": "sndPozo.wav",
   "type": 1,
   "volume": 1.0,

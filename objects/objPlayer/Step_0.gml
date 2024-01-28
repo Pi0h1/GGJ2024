@@ -1,3 +1,8 @@
+if !global.GameOver
+{
+playMusic(bgmMusic1);
+}
+
 global.GameSpeed += 0.000001;
 
 image_speed = 0.4*global.GameSpeed;
