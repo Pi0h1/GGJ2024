@@ -1,7 +1,7 @@
 if hit exit
 playerHealth -= 5;
 audienceEntertainement += 4;
-playSound(sndHurt);
+playSound(sndArbol);
 image_index = 0;
 sprite_index = sprPlayerDrop;
 player_yscale = .08;

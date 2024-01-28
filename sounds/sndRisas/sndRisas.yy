@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "sndPowerup",
+  "name": "sndRisas",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -10,14 +10,14 @@
   "bitRate": 24,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 0.514422,
+  "duration": 3.721587,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "preload": false,
   "sampleRate": 48000,
-  "soundFile": "sndPowerup.wav",
+  "soundFile": "sndRisas.wav",
   "type": 1,
   "volume": 1.0,
 }
