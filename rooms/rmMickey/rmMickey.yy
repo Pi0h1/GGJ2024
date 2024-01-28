@@ -21,6 +21,7 @@
     {"name":"inst_1CD23EA4","path":"rooms/rmMickey/rmMickey.yy",},
     {"name":"inst_3CDAE4CB","path":"rooms/rmMickey/rmMickey.yy",},
     {"name":"inst_6479AA34","path":"rooms/rmMickey/rmMickey.yy",},
+    {"name":"inst_30A55211","path":"rooms/rmMickey/rmMickey.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -101,6 +102,7 @@
       ],"layers":[],"properties":[],"userdefinedDepth":true,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"BG","depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6479AA34","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objHouses","path":"objects/objHouses/objHouses.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":592.0,"y":144.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_30A55211","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objPoles","path":"objects/objPoles/objPoles.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":544.0,"y":128.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3BAE4CE1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objGround","path":"objects/objGround/objGround.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":688.0,"y":96.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMREffectLayer","resourceVersion":"1.0","name":"Effect_1","depth":200,"effectEnabled":true,"effectType":"_filter_gradient","gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[

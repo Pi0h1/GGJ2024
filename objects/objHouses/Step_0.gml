@@ -1,7 +1,7 @@
 
 if !(global.GameOver)
 {
-	x -= (global.GameSpeed)*.75;
+	x -= (global.GameSpeed)*.50;
 }
 
 var shouldSpawn = (x <= 480 && spawned == 0)
