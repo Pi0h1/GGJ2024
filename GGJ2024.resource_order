@@ -94,6 +94,7 @@
     {"name":"objObstacle","order":1,"path":"objects/objObstacle/objObstacle.yy",},
     {"name":"sprGPFace2_XBw","order":1,"path":"sprites/sprGPFace2_XBw/sprGPFace2_XBw.yy",},
     {"name":"sprInputKbmDarkTab","order":48,"path":"sprites/sprInputKbmDarkTab/sprInputKbmDarkTab.yy",},
+    {"name":"sprClouds","order":19,"path":"sprites/sprClouds/sprClouds.yy",},
     {"name":"objTrash","order":5,"path":"objects/objTrash/objTrash.yy",},
     {"name":"sprGPFace2_PSw","order":1,"path":"sprites/sprGPFace2_PSw/sprGPFace2_PSw.yy",},
     {"name":"sprInputKbmDarkM","order":35,"path":"sprites/sprInputKbmDarkM/sprInputKbmDarkM.yy",},

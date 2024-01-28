@@ -35,8 +35,8 @@
     "path": "sprites/sprBall/sprBall.yy",
   },
   "spriteMaskId": {
-    "name": "sprTitleCard",
-    "path": "sprites/sprTitleCard/sprTitleCard.yy",
+    "name": "sprCollisionObstacle",
+    "path": "sprites/sprCollisionObstacle/sprCollisionObstacle.yy",
   },
   "visible": true,
 }

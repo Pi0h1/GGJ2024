@@ -125,6 +125,7 @@
     {"id":{"name":"objObstacle","path":"objects/objObstacle/objObstacle.yy",},},
     {"id":{"name":"sprGPFace2_XBw","path":"sprites/sprGPFace2_XBw/sprGPFace2_XBw.yy",},},
     {"id":{"name":"sprInputKbmDarkTab","path":"sprites/sprInputKbmDarkTab/sprInputKbmDarkTab.yy",},},
+    {"id":{"name":"sprClouds","path":"sprites/sprClouds/sprClouds.yy",},},
     {"id":{"name":"objTrash","path":"objects/objTrash/objTrash.yy",},},
     {"id":{"name":"sprGPFace2_PSw","path":"sprites/sprGPFace2_PSw/sprGPFace2_PSw.yy",},},
     {"id":{"name":"sprGPFace1_NS","path":"sprites/sprGPFace1_NS/sprGPFace1_NS.yy",},},

@@ -1,4 +1,4 @@
 scrDrawShadowCircle();
 
 
-draw_sprite(sprCollisionObstacle,0,x,y);
+//draw_sprite(sprCollisionObstacle,0,x,y);

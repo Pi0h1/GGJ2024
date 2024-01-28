@@ -3,12 +3,17 @@ timer = defaultTimer;
 
 i=0;
 
-// List of obstacles (Add more here!)
-//obstacle[i++] = objSpike;
+isOnGrass = (y == 128);
+isOnSidewalk = (y == 152);
+isOnRoad = (y == 184);
 
-isOnGrass = (x == 544 && y == 112);
-isOnSidewalk = (x == 512 && y == 144);
-isOnRoad = (x == 480 && y == 176);
+// List of obstacles (Add more here!)
+
+obstacle[i++] = objSpike;
+
+obstacle[i++] = objCake;
+obstacle[i++] = objMonster;
+obstacle[i++] = objCheese;
 
 if (isOnGrass) {
 	obstacle[i++] = objTree;
@@ -21,9 +26,6 @@ if (isOnGrass) {
 	obstacle[i++] = objHole;
 }
 
-obstacle[i++] = objCake;
-obstacle[i++] = objMonster;
-obstacle[i++] = objCheese;
 
 
 

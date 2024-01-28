@@ -1,8 +1,8 @@
 var thickness = .5;
 
 gpu_set_blendmode(bm_add);
-draw_set_alpha(.5)
-draw_circle_color(x,y-4,8,c_white,c_black,0);
+draw_set_alpha(.25)
+draw_circle_color(x,y-4+lengthdir_y(len,dir),8+random(2),c_white,c_black,0);
 gpu_set_blendmode(bm_normal);
 draw_set_alpha(1)
 
@@ -23,4 +23,4 @@ draw_sprite_ext(sprite_index, image_index, x, y+lengthdir_y(len,dir),image_xscal
 dir += 5;
 
 
-draw_sprite(sprCollisionObstacle,0,x,y);
+//draw_sprite(sprCollisionObstacle,0,x,y);
