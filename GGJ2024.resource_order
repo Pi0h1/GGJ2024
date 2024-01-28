@@ -157,6 +157,7 @@
     {"name":"sprInputKbmClearN","order":34,"path":"sprites/sprInputKbmClearN/sprInputKbmClearN.yy",},
     {"name":"sprGPFace3_PSw","order":2,"path":"sprites/sprGPFace3_PSw/sprGPFace3_PSw.yy",},
     {"name":"sprInputKbmClearI","order":17,"path":"sprites/sprInputKbmClearI/sprInputKbmClearI.yy",},
+    {"name":"objGround","order":17,"path":"objects/objGround/objGround.yy",},
     {"name":"sprGPFace4_PSb","order":3,"path":"sprites/sprGPFace4_PSb/sprGPFace4_PSb.yy",},
     {"name":"sprInputKbmClearR","order":13,"path":"sprites/sprInputKbmClearR/sprInputKbmClearR.yy",},
     {"name":"sprInputKbmRedI","order":17,"path":"sprites/sprInputKbmRedI/sprInputKbmRedI.yy",},

@@ -196,6 +196,7 @@
     {"id":{"name":"sprInputKbmClearN","path":"sprites/sprInputKbmClearN/sprInputKbmClearN.yy",},},
     {"id":{"name":"sprGPFace3_PSw","path":"sprites/sprGPFace3_PSw/sprGPFace3_PSw.yy",},},
     {"id":{"name":"sprInputKbmClearI","path":"sprites/sprInputKbmClearI/sprInputKbmClearI.yy",},},
+    {"id":{"name":"objGround","path":"objects/objGround/objGround.yy",},},
     {"id":{"name":"sprGPFace4_PSb","path":"sprites/sprGPFace4_PSb/sprGPFace4_PSb.yy",},},
     {"id":{"name":"sprInputKbmMouse","path":"sprites/sprInputKbmMouse/sprInputKbmMouse.yy",},},
     {"id":{"name":"sprInputKbmClearR","path":"sprites/sprInputKbmClearR/sprInputKbmClearR.yy",},},
