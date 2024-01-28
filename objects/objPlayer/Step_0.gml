@@ -29,10 +29,18 @@ else
 }
 
 
-
 if (global.GameOver && objEntertainementBar.image_xscale <= 0)
 {
 	sprite_index = sprPlayerAngry;
+} 
+else if global.GameOver
+{
+	sprite_index = sprPlayerDie;
+	if !ghost
+	{
+		instance_create_depth(x,y,depth-1,objGhost);
+		ghost = true;
+	}
 }
 
 jumpy = decrease(jumpy,0,1);

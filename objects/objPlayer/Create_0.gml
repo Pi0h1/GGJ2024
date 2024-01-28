@@ -1,3 +1,4 @@
+ghost = 0;
 canWalk = false;
 jumpy = 0
 dir = 0;
